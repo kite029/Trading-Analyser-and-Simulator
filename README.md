@@ -1,0 +1,1 @@
+# Trading-Analyser-and-Simulator
